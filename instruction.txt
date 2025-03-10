@@ -1,4 +1,4 @@
-DIFY翻译工作流 API :  app-V7iqoCaOuxitATa655tLa4Ts  
+
 GitHub 项目地址： https://github.com/mn1f18/dify_test.git
 
 DIFY Workflow App API  参考：
